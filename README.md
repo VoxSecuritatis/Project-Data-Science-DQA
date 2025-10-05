@@ -2,6 +2,10 @@
 
 ---
 
+[Return to main page](https://github.com/VoxSecuritatis) or [Return to repository](https://github.com/VoxSecuritatis/data-quality-analyzer)
+
+---
+
 # 🚧 Under Construction  
 
 > ⚠️ **Status:** Work in Progress  
