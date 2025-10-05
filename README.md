@@ -1,1 +1,1 @@
-# Project-Data-Science-DQA
+# Project: Data Quality Analyzer (DQA)
